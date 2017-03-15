@@ -1,4 +1,4 @@
-# Include
+# Hero Include
 Smart 'require' module for NodeJS
 
 ### Installation
