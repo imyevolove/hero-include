@@ -5,7 +5,7 @@ Smart 'require' module for NodeJS
 Install via npm.
 
 ```
-npm install include
+npm install hero-include
 ```
 
 ### Examples
