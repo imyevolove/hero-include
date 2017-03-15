@@ -11,13 +11,20 @@ npm install include
 ### Examples
 Require the module once in the main script
 ```javascript
-require("include");
+require("hero-include");
 ```
-Use method 'using' for adding folder to router and include scripts from these folders 
+Use method 'using' for adding folder to router and include scripts from these folders.
+Call include or heroInclude.
 ```javascript
-require("include");
+require("hero-include");
 
 include
+	.using("./core")
+	.using("./lib");
+
+// or
+
+heroInclude
 	.using("./core")
 	.using("./lib");
 
