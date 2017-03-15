@@ -1,10 +1,10 @@
 {
     "name": "hero-include",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/imyevolove/include.git"
+        "url": "https://github.com/imyevolove/hero-include.git"
     },
     "author": "Medvededev Alexey <imyevolove@gmail.com> (http://forbiten.com/)",
     "license": "Apache-2.0",
