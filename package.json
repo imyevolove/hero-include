@@ -1,0 +1,25 @@
+﻿{
+    "name": "include",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/imyevolove/include.git"
+    },
+    "author": "Medvededev Alexey <imyevolove@gmail.com> (http://forbiten.com/)",
+    "license": "Apache-2.0",
+    "description": "A node module for include and manage local libraries",
+    "dependencies": {
+        "fs": "0.0.1",
+        "path": "0.12.7",
+        "callsite": "1.0.0"
+    },
+    "keywords": [
+        "include",
+        "require",
+        "import",
+        "using",
+        "library",
+        "helper"
+    ]
+}
